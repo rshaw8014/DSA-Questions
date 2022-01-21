@@ -1,2 +1,2 @@
 # DSA-Questions
-In this repository I post solutions of the DSA questions, I practice on regular basis.
+Set of questions to practice if you want to improve your problem solving skills.
